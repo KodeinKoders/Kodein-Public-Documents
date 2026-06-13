@@ -1,0 +1,10 @@
+[versions]
+kodein-themes = "4.5.0"         # https://github.com/KodeinKoders/Kodein-Themes/releases
+kodein-resourceFiles = "1.0.0"  # https://github.com/KodeinKoders/gradle-resource-files/releases
+
+[plugins]
+kodein-themes-asciidoctor = { id = "net.kodein.themes.adoc", version.ref = "kodein-themes" }
+kodein-resourceFiles = { id = "net.kodein.gradle.resources.resource-files", version.ref = "kodein-resourceFiles" }
+
+[libraries]
+kodein-themes-asciidoctor-resources = { module = "net.kodein.themes:asciidoctor-resources", version.ref = "kodein-themes" }

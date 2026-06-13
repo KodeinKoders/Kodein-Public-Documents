@@ -1,0 +1,8 @@
+
+footer:
+  recto:
+    right:
+      content: '{expert} - {page-number} / {page-count}'
+  verso:
+    right:
+      content: '{expert} - {page-number} / {page-count}'

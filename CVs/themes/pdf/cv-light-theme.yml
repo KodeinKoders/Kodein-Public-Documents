@@ -1,0 +1,11 @@
+extends:
+  - ../../../build/resources/pdf-themes/kodein-light-theme.yml
+  - ./cv-base-theme.yml
+
+footer:
+  recto:
+    left:
+      content: "image:{pdf-themes-imagesdir}/logo-light.svg[]"
+  verso:
+    left:
+      content: "image:{pdf-themes-imagesdir}/logo-light.svg[]"

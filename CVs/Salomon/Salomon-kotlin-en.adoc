@@ -1,0 +1,310 @@
+= Salomon BRYS
+
+Senior Kotlin Architect & Tech Lead
+
+[%unbreakable]
+--
+[.contact]
+icon:phone[] +33 6 83 54 55 96 {nbsp}{nbsp}|{nbsp}{nbsp} icon:envelope[] salomon@kodein.net {nbsp}{nbsp}|{nbsp}{nbsp} icon:map-marker[] Rambouillet, Île-de-France, France +
+icon:linkedin[] link:https://www.linkedin.com/in/salomonbrys/[linkedin.com/in/salomonbrys] {nbsp}{nbsp}|{nbsp}{nbsp} icon:link[] link:https://www.kodein.net[kodein.net]
+--
+
+
+[%breakable]
+== Summary
+
+[%unbreakable]
+--
+Seasoned **Kotlin architect** with 15+ years of experience and a strong focus on **architecture**, **clean domain design**, and **team enablement**.
+Recognised by both JetBrains and Google as a top Kotlin expert — **JetBrains Certified Kotlin Trainer** and **Google Developer Expert (Kotlin)**.
+
+Specialised in designing and leading server-side Kotlin codebases: domain layers, reactive pipelines, API design, and service architecture.
+Experienced leading teams, defining architectural standards, driving code quality, and mentoring developers toward modern, maintainable patterns.
+Trainer for major European companies, combining deep technical expertise with the ability to communicate complex concepts clearly.
+--
+
+
+[%breakable]
+== Core Competencies
+
+[%unbreakable]
+--
+[cols="1,1,1", frame=none, grid=none]
+|===
+| Backend Architecture & Design
+
+| Tech Leadership
+
+| Kotlin & JVM Ecosystem
+
+|
+|
+|
+
+|
+icon:chevron-right[]Domain-driven & clean architecture
+
+icon:chevron-right[]Modular design
+
+icon:chevron-right[]REST & RPC API design
+
+icon:chevron-right[]Reactive pipelines (Coroutines, Flow)
+
+icon:chevron-right[]Persistence, caching & data layers
+
+|
+icon:chevron-right[]Team lead & mentoring
+
+icon:chevron-right[]Architectural decision making
+
+icon:chevron-right[]Code review & standards enforcement
+
+icon:chevron-right[]Recruitment & onboarding
+
+icon:chevron-right[]Training & knowledge transfer
+
+|
+icon:chevron-right[]Kotlin (idiomatic, advanced)
+
+icon:chevron-right[]Containers & Developer environments
+
+icon:chevron-right[]Coroutines & Flow expert
+
+icon:chevron-right[]Gradle build optimisation & plugins
+
+icon:chevron-right[]Native library integration (JNI, C/C++)
+
+|===
+--
+
+
+[%breakable]
+== Certifications & Recognition
+
+[%unbreakable]
+--
+[cols="2,3", frame=none, grid=none]
+|===
+| icon:medal[] **JetBrains Certified Kotlin Trainer**
+| Official certification to deliver Kotlin courses on behalf of JetBrains.
+
+| icon:medal[] **Google Kotlin Developer Expert**
+| Recognised by Google for expertise and community contribution in the Kotlin ecosystem.
+|===
+--
+
+
+[%breakable]
+== JetBrains Certified Kotlin Trainer — Freelance
+
+[%unbreakable]
+--
+_June 2018 – Present_
+
+Official **JetBrains Certified Kotlin Trainer** delivering courses across Europe for teams ranging from mid-size startups to large enterprises.
+
+Programmes delivered include:
+
+* **Advanced Kotlin** — coroutines, flows, DSLs, generics, inlining, delegation, optimization, ...
+* **Gradle development & optimisation** — convention or custom plugins, build performance, CI/CD integration.
+* **Kotlin Multiplatform** — shared domain layers, platform integration, cross-target architecture.
+* **Kotlin for Backend** — idiomatic Kotlin on the JVM, Ktor, structured concurrency, clean architecture patterns.
+
+Selected clients: *Deezer, Bosch, Legrand, Crédit Agricole, French Ministry of Interior*
+--
+
+
+[%breakable]
+== Mission Experience
+
+[%breakable]
+=== Kotlin Architect — LTU
+
+[%unbreakable]
+--
+_2025_
+
+Architecture and development of an **AI image detection workflow application** with a shared domain layer across platforms.
+Responsibilities focused on clean architecture design: separating domain logic from platform concerns, defining data and service layers, and owning architectural decisions end-to-end.
+
+* Designed the shared domain and data layer architecture (use cases, repositories, reactive streams).
+* Defined integration contracts between business logic and platform-specific ML pipelines.
+* Selected and integrated multiplatform libraries (Ktor, Coroutines, serialization).
+--
+
+
+[%breakable]
+=== Kotlin Mentor — Chargemap
+
+[%unbreakable]
+--
+_2024 – 2025_
+
+Engaged as a hands-on **Kotlin architecture mentor** to guide a development team through a large-scale refactoring toward clean, modern architecture.
+
+* Assessed the existing legacy codebase and produced a phased migration roadmap.
+* Introduced architectural patterns (layered architecture, unidirectional data flow, Single Source of Truth).
+* Conducted weekly code reviews and pair-programming sessions.
+* Elevated the team's autonomy in Kotlin idioms and practices.
+--
+
+
+[%breakable]
+=== Kotlin Multiplatform Lead Architect (Interim) — Deezer
+
+[%unbreakable]
+--
+_2024_
+
+Served as **interim tech lead** of the Kotlin Multiplatform core platform team during a leadership transition at one of Europe's largest music streaming services.
+
+* Maintained delivery continuity for the Kotlin core library consumed by all Deezer applications.
+* Managed and unblocked the engineering team on a day-to-day basis.
+* Led the **recruitment process** for the permanent team lead position.
+* Acted as the primary point of contact between the platform team and consuming squads.
+--
+
+
+[%breakable]
+=== Kotlin Core Platform Architect — Deezer
+
+[%unbreakable]
+--
+_2022 - 2023_
+
+**Founded and architected the Kotlin core platform** from the ground up — the shared backbone later adopted by all Deezer applications.
+
+* Designed the full architecture of the shared Kotlin module: domain logic, networking, persistence, reactive streams.
+* Led a team of engineers, setting coding standards, architectural guidelines, and review processes.
+* Drove adoption across consuming teams: defined integration APIs, wrote documentation, and ran internal knowledge-sharing sessions.
+* Delivered stable, production-grade Kotlin code at scale under tight platform constraints.
+--
+
+
+[%breakable]
+=== Kotlin Architect — ACINQ
+
+[%unbreakable]
+--
+_2020 - 2021_
+
+Architecture and development of the **Phoenix** Bitcoin Lightning Network wallet — including a full port of the Lightning Network protocol layer.
+
+* Ported the Lightning protocol implementation from Scala to Kotlin, preserving correctness of a complex, stateful financial protocol.
+* Designed the domain and service architecture from scratch, separating protocol logic from platform concerns.
+* Updated performance-critical native **C / C++ cryptographic libraries** to integrate to Kotlin Multiplatform.
+* Ensured correctness of low-level protocol implementations through comprehensive testing strategies.
+--
+
+
+[%breakable]
+=== Android Architect — Sevenhugs (now Qorvo)
+
+[%unbreakable]
+--
+_2018_
+
+Short-term architecture engagement to define Kotlin technical foundations and service integration patterns for a connected-device product.
+--
+
+
+[%breakable]
+=== R&D Engineer — Dental Monitoring
+
+[%unbreakable]
+--
+_May 2014 – December 2017_
+
+R&D engineer building a medical-grade application for AI-assisted orthodontic monitoring.
+
+* Designed and implemented data pipelines for dental image capture and analysis.
+* Contributed to defining the service architecture and CI/CD practices.
+* Integrated backend APIs for synchronisation with the medical data platform.
+* Worked in a multidisciplinary team combining hardware, software, and medical research.
+--
+
+
+[%breakable]
+=== Development Manager — Weemo, Inc.
+
+[%unbreakable]
+--
+_June 2013 – April 2014_
+
+Led development for a real-time video communication SDK.
+
+* Managed and coordinated the engineering team.
+* Interfaced with client engineering teams for SDK integration support.
+--
+
+
+[%breakable]
+=== Software Architect — KickYourApp
+
+[%unbreakable]
+--
+_March 2011 – June 2013_
+
+**Technical lead and architect** for application development across a range of business and marketing projects.
+
+* Designed application and service architectures for multiple concurrent projects.
+* Defined development standards, patterns, and tooling for the engineering team.
+* Acted as the primary technical decision-maker and mentor for junior developers.
+
+--
+
+
+<<<
+[%breakable]
+== Speaking Experience
+
+[%breakable]
+=== KotlinConf 2026 — Munich
+
+[%unbreakable]
+--
+A demonstration on how to use Compose Multiplatform to create vivid presentation and various print material.
+--
+
+
+[%breakable]
+=== KotlinConf 2024 — Copenhagen
+
+[%unbreakable]
+--
+*link:https://www.youtube.com/watch?v=w_mkLrzb_I4[Using C & Native Platforms in Kotlin: Building a Multi-Platform Advanced Library]*
+
+A live-coding talk demonstrating how to integrate native C, C++, and platform-specific SDKs into a Kotlin library.
+Covered JVM JNI, Kotlin/Native C-interop, JS/WebAssembly alignment, and the use of platform SDKs alongside Kotlin to commonise advanced features such as embedded cryptography.
+--
+
+
+[%breakable]
+=== KotlinConf 2023 — Amsterdam
+
+[%unbreakable]
+--
+*link:https://www.youtube.com/watch?v=j-zEAMcMcjA[Kotlin/Multiplatform for iOS Developers: State & Future]*
+
+A talk bridging the gap between the iOS developer community and the Kotlin ecosystem — covering KMP integration, tooling, interoperability, and the road ahead.
+--
+
+
+[%breakable]
+== Education
+
+[%unbreakable]
+--
+**Master's Degree — Information Technologies** +
+_EPITECH – European Institute of Technology, Paris · 2005 – 2010_
+--
+
+
+[%breakable]
+== Languages
+
+[%unbreakable]
+--
+* **French** — Native
+* **English** — Full professional proficiency
+--

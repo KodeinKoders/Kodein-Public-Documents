@@ -1,0 +1,310 @@
+= Salomon BRYS
+
+Architecte Sénior Kotlin Multiplatform & Tech Lead
+
+[%unbreakable]
+--
+[.contact]
+icon:phone[] +33 6 83 54 55 96 {nbsp}{nbsp}|{nbsp}{nbsp} icon:envelope[] salomon@kodein.net {nbsp}{nbsp}|{nbsp}{nbsp} icon:map-marker[] Rambouillet, Île-de-France, France +
+icon:linkedin[] link:https://www.linkedin.com/in/salomonbrys/[linkedin.com/in/salomonbrys] {nbsp}{nbsp}|{nbsp}{nbsp} icon:link[] link:https://www.kodein.net[kodein.net]
+--
+
+
+[%breakable]
+== Profil
+
+[%unbreakable]
+--
+**Architecte Kotlin MultiPlatform (KMP)** expérimenté avec 15+ ans d'expérience mobile, centré sur l'**architecture cross-platform**, le **leadership technique** et l'**accompagnement des équipes**.
+Reconnu par JetBrains et Google comme expert Kotlin de référence — **JetBrains Certified Kotlin Trainer** et **Google Developer Expert (Kotlin/Android)**.
+
+Spécialisé dans la conception et le pilotage de codebases partagées KMP consommées par des applications Android & iOS natives.
+Expérimenté dans la direction d'équipes, la définition de standards architecturaux, le pilotage de la qualité du code et le mentorat de développeurs vers des pratiques modernes et maintenables.
+Formateur pour de grandes entreprises européennes, alliant expertise technique pointue et capacité à communiquer des concepts complexes avec clarté.
+--
+
+
+[%breakable]
+== Compétences clés
+
+[%unbreakable]
+--
+[cols="1,1,1", frame=none, grid=none]
+|===
+| Architecture & Conception KMP
+
+| Leadership Technique
+
+| Mobile Natif (Android / iOS)
+
+|
+|
+|
+
+|
+icon:chevron-right[]Logique métier partagée & couches domaine
+
+icon:chevron-right[]Architectures modulaires modernes
+
+icon:chevron-right[]Expert Kotlin Coroutines & Flow
+
+icon:chevron-right[]Assurance qualité multiplatform
+
+icon:chevron-right[]Optimisation Gradle & déploiement
+
+|
+icon:chevron-right[]Lead technique & mentorat
+
+icon:chevron-right[]Prise de décision architecturale
+
+icon:chevron-right[]Revue de code & application des standards
+
+icon:chevron-right[]Recrutement & intégration
+
+icon:chevron-right[]Formation & transfert de compétences
+
+|
+icon:chevron-right[]Android (Kotlin, Compose)
+
+icon:chevron-right[]iOS (interop Swift / Objective-C)
+
+icon:chevron-right[]Patterns d'intégration KMP ↔ natif
+
+icon:chevron-right[]Interfaces (Compose) Multiplatform
+
+icon:chevron-right[]Intégration de bibliothèques natives (C / C++ / Rust / Zig)
+
+|===
+--
+
+
+[%breakable]
+== Certifications & Reconnaissances
+
+[%unbreakable]
+--
+[cols="2,3", frame=none, grid=none]
+|===
+| icon:medal[] **JetBrains Certified Kotlin Trainer**
+| Certification officielle pour dispenser des formations Kotlin au nom de JetBrains.
+
+| icon:medal[] **Google Kotlin Developer Expert**
+| Reconnu par Google pour son expertise et sa contribution à la communauté de l'écosystème Kotlin.
+|===
+--
+
+
+[%breakable]
+== JetBrains Certified Kotlin Trainer — Freelance
+
+[%unbreakable]
+--
+_Juin 2018 – Présent_
+
+**JetBrains Certified Kotlin Trainer** officiel, dispensant des formations à travers l'Europe pour des équipes allant de startups en croissance à de grands groupes.
+
+Programmes dispensés :
+
+* **Développement mobile Kotlin Multiplatform** — architecture, conception de la couche partagée, intégration platform.
+* **Kotlin Avancé** — coroutines, flows, DSL, génériques, inlining, délégation, optimisation, ...
+* **Développement & optimisation Gradle** — plugins de convention ou personnalisés, performance de build, intégration CI/CD.
+* **Kotlin Multiplatform pour développeurs iOS ou JS** — transfert de compétences, compréhension du langage, intégration native.
+
+Clients sélectionnés : *Deezer, Bosch, Legrand, Crédit Agricole, Ministère de l'Intérieur*
+--
+
+
+[%breakable]
+== Expériences en mission
+
+[%breakable]
+=== Architecte Kotlin Multiplatform — LTU
+
+[%unbreakable]
+--
+_2025_
+
+Architecture et développement d'une **application de workflow de détection d'images par IA** ciblant Android et iOS depuis un codebase KMP partagé.
+Les responsabilités ont couvert la conception KMP complète : définition de la couche domaine partagée, orchestration des intégrations spécifiques à chaque plateforme, et pilotage des décisions architecturales de bout en bout.
+
+* Conception de l'architecture du module KMP partagé (couches domaine, données, présentation).
+* Définition des contrats d'intégration entre le code Kotlin partagé et les pipelines ML natifs.
+* Sélection et intégration des bibliothèques & interfaces multiplatform (Compose, Ktor, Coroutines).
+--
+
+
+[%breakable]
+=== Mentor Kotlin — Chargemap
+
+[%unbreakable]
+--
+_2024 – 2025_
+
+Intervenu en tant que **mentor architecture Kotlin** pour accompagner une équipe de développement dans une refonte de grande envergure vers une architecture propre et moderne.
+
+* Audit du code hérité existant et production d'une feuille de route de migration par phases.
+* Introduction de patterns architecturaux (architecture en couches, flux de données unidirectionnel, Source Unique de Vérité).
+* Revues de code et sessions de pair-programming hebdomadaires.
+* Montée en autonomie de l'équipe sur les idiomes et pratiques Kotlin.
+--
+
+
+[%breakable]
+=== Lead Kotlin Multiplatform (Intérimaire) — Deezer
+
+[%unbreakable]
+--
+_2024_
+
+**Lead technique intérimaire** de l'équipe plateforme cœur Kotlin Multiplatform lors d'une transition de leadership au sein de l'un des plus grands services de streaming musical en Europe.
+
+* Maintien de la continuité de livraison de la bibliothèque cœur KMM consommée par toutes les applications Deezer.
+* Management et déblocage de l'équipe d'ingénierie au quotidien.
+* Pilotage du **processus de recrutement** pour le poste de lead technique permanent.
+* Point de contact principal entre l'équipe plateforme KMM et les squads consommatrices.
+--
+
+
+[%breakable]
+=== Architecte Kotlin Multiplatform — Deezer
+
+[%unbreakable]
+--
+_2022 - 2023_
+
+**Fondation et architecture de la plateforme cœur KMM** de zéro — le socle partagé adopté par l'ensemble des applications mobiles Deezer.
+
+* Conception de l'architecture complète du module Kotlin Multiplatform partagé (logique domaine, réseau, persistance, flux réactifs).
+* Direction d'une équipe d'ingénieurs : définition des standards de code, des lignes directrices architecturales et des processus de revue.
+* Pilotage de l'adoption par les équipes consommatrices : définition des API d'intégration, rédaction de la documentation et animation de sessions de partage de connaissances internes.
+* Navigation des contraintes complexes iOS/Android et livraison de code multiplatform stable et prêt pour la production.
+--
+
+
+[%breakable]
+=== Architecte Kotlin Multiplatform — ACINQ
+
+[%unbreakable]
+--
+_2020 - 2021_
+
+Architecture et création de **Phoenix**, un portefeuille Bitcoin Lightning Network en tant qu'application multiplatform native pour Android et iOS.
+
+* Portage de l'implémentation du protocole Lightning de Scala vers Kotlin, en préservant la correction d'un protocole financier complexe et à état.
+* Conception de l'architecture domaine et services de zéro, en séparant la logique protocole des problématiques plateforme.
+* Mise à jour de **bibliothèques cryptographiques natives C / C++** critiques en termes de performance pour les intégrer à Kotlin Multiplatform.
+* Vérification de la correction des implémentations protocolaires bas niveau via des stratégies de test exhaustives.
+--
+
+
+[%breakable]
+=== Architecte Android — Sevenhugs (devenu Qorvo)
+
+[%unbreakable]
+--
+_2018_
+
+Mission d'architecture courte durée pour définir les fondations techniques Android pour un produit connecté.
+--
+
+
+[%breakable]
+=== Ingénieur R&D Mobile — Dental Monitoring
+
+[%unbreakable]
+--
+_Mai 2014 – Décembre 2017_
+
+Ingénieur R&D développant une application mobile médicale (Android & iOS) pour le suivi orthodontique assisté par IA.
+
+* Développement et maintenance des applications mobiles Android et iOS.
+* Implémentation de pipelines de vision par ordinateur pour la capture et l'analyse d'images dentaires.
+* Contribution à la définition de l'architecture mobile et des pratiques CI/CD.
+* Travail en équipe pluridisciplinaire alliant hardware, logiciel et recherche médicale.
+--
+
+
+[%breakable]
+=== Responsable Développement Mobile — Weemo, Inc.
+
+[%unbreakable]
+--
+_Juin 2013 – Avril 2014_
+
+Direction du développement mobile d'un SDK de communication vidéo en temps réel (Android & iOS).
+
+* Management et coordination de l'équipe d'ingénierie mobile.
+* Interface avec les équipes d'ingénierie clientes pour le support d'intégration du SDK.
+--
+
+
+[%breakable]
+=== Architecte Logiciel Mobile — KickYourApp
+
+[%unbreakable]
+--
+_Mars 2011 – Juin 2013_
+
+**Lead technique et architecte** pour le développement d'applications Android et iOS sur des projets variés (business et marketing).
+
+* Conception des architectures applicatives pour plusieurs projets mobiles simultanés.
+* Définition des standards de développement, patterns et outillage pour l'équipe mobile.
+* Rôle de principal décideur technique et de mentor pour les développeurs juniors.
+
+--
+
+
+<<<
+[%breakable]
+== Conférences
+
+[%breakable]
+=== KotlinConf 2026 — Munich
+
+[%unbreakable]
+--
+Démonstration de l'utilisation de Compose Multiplatform pour créer des présentations vivantes et divers supports imprimés.
+--
+
+
+[%breakable]
+=== KotlinConf 2024 — Copenhague
+
+[%unbreakable]
+--
+*link:https://www.youtube.com/watch?v=w_mkLrzb_I4[Using C & Native Platforms in Kotlin: Building a Multi-Platform Advanced Library]*
+
+Conférence en live-coding démontrant l'intégration de code natif C, C++ et de SDK spécifiques aux plateformes (Android, iOS) dans une bibliothèque Kotlin Multiplatform.
+Sujets couverts : JVM JNI, C-interop Kotlin/Native, alignement JS/WebAssembly, et l'utilisation des SDK Swift iOS aux côtés des SDK Android Kotlin pour mutualiser des fonctionnalités platform avancées telles que la cryptographie embarquée.
+--
+
+
+[%breakable]
+=== KotlinConf 2023 — Amsterdam
+
+[%unbreakable]
+--
+*link:https://www.youtube.com/watch?v=j-zEAMcMcjA[Kotlin/Multiplatform for iOS Developers: State & Future]*
+
+Conférence visant à rapprocher la communauté des développeurs iOS de l'écosystème Kotlin Multiplatform — couvrant l'état actuel de l'intégration KMP pour iOS, l'outillage, l'interopérabilité et les perspectives d'avenir.
+--
+
+
+[%breakable]
+== Formation
+
+[%unbreakable]
+--
+**Master — Technologies de l'Information** +
+_EPITECH – European Institute of Technology, Paris · 2005 – 2010_
+--
+
+
+[%breakable]
+== Langues
+
+[%unbreakable]
+--
+* **Français** — Langue maternelle
+* **Anglais** — Maîtrise professionnelle complète
+--
