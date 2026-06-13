@@ -1,6 +1,6 @@
 = Salomon BRYS
 
-Architecte Sénior Kotlin Multiplatform & Tech Lead
+Architecte Senior Kotlin Multiplatform & Tech Lead
 
 [%unbreakable]
 --
@@ -48,7 +48,7 @@ icon:chevron-right[]Architectures modulaires modernes
 
 icon:chevron-right[]Expert Kotlin Coroutines & Flow
 
-icon:chevron-right[]Assurance qualité multiplatform
+icon:chevron-right[]Assurance qualité multiplateformes
 
 icon:chevron-right[]Optimisation Gradle & déploiement
 
@@ -70,7 +70,7 @@ icon:chevron-right[]iOS (interop Swift / Objective-C)
 
 icon:chevron-right[]Patterns d'intégration KMP ↔ natif
 
-icon:chevron-right[]Interfaces (Compose) Multiplatform
+icon:chevron-right[]Interfaces (Compose) multiplateformes
 
 icon:chevron-right[]Intégration de bibliothèques natives (C / C++ / Rust / Zig)
 
@@ -129,7 +129,7 @@ Les responsabilités ont couvert la conception KMP complète : définition de la
 
 * Conception de l'architecture du module KMP partagé (couches domaine, données, présentation).
 * Définition des contrats d'intégration entre le code Kotlin partagé et les pipelines ML natifs.
-* Sélection et intégration des bibliothèques & interfaces multiplatform (Compose, Ktor, Coroutines).
+* Sélection et intégration des bibliothèques & interfaces multiplateformes (Compose, Ktor, Coroutines).
 --
 
 
@@ -177,7 +177,7 @@ _2022 - 2023_
 * Conception de l'architecture complète du module Kotlin Multiplatform partagé (logique domaine, réseau, persistance, flux réactifs).
 * Direction d'une équipe d'ingénieurs : définition des standards de code, des lignes directrices architecturales et des processus de revue.
 * Pilotage de l'adoption par les équipes consommatrices : définition des API d'intégration, rédaction de la documentation et animation de sessions de partage de connaissances internes.
-* Navigation des contraintes complexes iOS/Android et livraison de code multiplatform stable et prêt pour la production.
+* Navigation des contraintes complexes iOS/Android et livraison de code multiplateformes stable et prêt pour la production.
 --
 
 
@@ -188,7 +188,7 @@ _2022 - 2023_
 --
 _2020 - 2021_
 
-Architecture et création de **Phoenix**, un portefeuille Bitcoin Lightning Network en tant qu'application multiplatform native pour Android et iOS.
+Architecture et création de **Phoenix**, un portefeuille Bitcoin Lightning Network en tant qu'application multiplateformes native pour Android et iOS.
 
 * Portage de l'implémentation du protocole Lightning de Scala vers Kotlin, en préservant la correction d'un protocole financier complexe et à état.
 * Conception de l'architecture domaine et services de zéro, en séparant la logique protocole des problématiques plateforme.

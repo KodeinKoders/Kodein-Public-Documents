@@ -129,7 +129,7 @@ Les responsabilités ont porté sur la conception d'une architecture clean : sé
 
 * Conception de l'architecture de la couche domaine et données partagée (cas d'utilisation, repositories, flux réactifs).
 * Définition des contrats d'intégration entre la logique métier et les pipelines ML spécifiques à chaque plateforme.
-* Sélection et intégration des bibliothèques multiplatform (Ktor, Coroutines, serialization).
+* Sélection et intégration des bibliothèques multiplateformes (Ktor, Coroutines, serialization).
 --
 
 
@@ -150,7 +150,7 @@ Intervenu en tant que **mentor architecture Kotlin** pour accompagner une équip
 
 
 [%breakable]
-=== Lead Architecte Kotlin Multiplatform (Intérimaire) — Deezer
+=== Lead Architecte Kotlin multiplateformes (Intérimaire) — Deezer
 
 [%unbreakable]
 --
